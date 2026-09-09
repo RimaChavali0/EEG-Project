@@ -1,6 +1,6 @@
 # EEG Motor Imagery Classification
 
-A self-built pipeline that decodes imagined left-hand vs. right-hand movement 
+A pipeline that decodes imagined left-hand vs. right-hand movement 
 from raw EEG signals, using the PhysioNet EEG Motor Movement/Imagery dataset.
 
 ## What this does
